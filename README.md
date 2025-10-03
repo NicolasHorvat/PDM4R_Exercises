@@ -1,0 +1,3 @@
+Exercises I did for the PAM4R (Planning and Decition making for autonomous robots).
+
+Have not checked jet if the scripts are complete and still working...
